@@ -17,7 +17,7 @@
             <key>metadata</key> 
             <dict> 
                 <key>bundle-identifier</key> 
-                <string>com.xxx(包名)</string> 
+                <string>BTFM</string> 
                 <key>bundle-version</key> 
                 <string>2.5.4</string> 
                 <key>kind</key> 

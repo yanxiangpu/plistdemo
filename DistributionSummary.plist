@@ -18,8 +18,6 @@
             <dict> 
                 <key>bundle-identifier</key> 
                 <string>BTFM</string> 
-                <key>bundle-version</key> 
-                <string>2.5.4</string> 
                 <key>kind</key> 
                 <string>software</string> 
                 <key>title</key> 

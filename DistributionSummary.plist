@@ -16,14 +16,12 @@
             </array> 
             <key>metadata</key> 
             <dict> 
-                <key>bundle-identifier</key> 
-                <string>com.xxx(包名)</string> 
                 <key>bundle-version</key> 
-                <string>1.6.0(版本号）</string> 
+                <string>2.5.4</string> 
                 <key>kind</key> 
                 <string>software</string> 
                 <key>title</key> 
-                <string>xx（安装包名字）</string> 
+                <string>BTFM</string> 
             </dict> 
         </dict> 
     </array> 
